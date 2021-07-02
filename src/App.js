@@ -35,7 +35,6 @@ const Container = styled.div`
 `;
 
 const AppLabel = styled.span`
-{/*added color*/}
   color: red;
   margin: 20px auto;
   font-size: 18px;
